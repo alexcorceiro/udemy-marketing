@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html{
+  position: relative;
+  min-height: 100%;
+}
+
+footer{
+  display: relative;
+  bottom: 0px;
+  width: 100%;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.product-details{
+  margin-top: 30px;
+  height: 100%;
+}
+
+.cartpage{
+  margin-top: 20px;
+  height: 80vh;
+}
+
+.register{
+  height: 70.7vh;
+}
+
+.userOrder{
+  margin: 50px;
+  height: 100%;
+}
+
+.productlist{
+  height: 100%;
+}
+
+.createproduct{
+  height: 100%;
+}
+
+.edituser{
+  height: 70.7vh;
+}
+
+.adminchat{
+  margin-top: 19vh;
+}
+
+.userlist {
+  height: 70.8vh;
+}
+
+.orderDetails{
+  height: 70.7vh;
+}
